@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Model Mavericks** · Team ID `VTU-QFF-HC-0077` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Model Mavericks)
+[⬆ Back to Top](#model-mavericks)
 
 </div>
